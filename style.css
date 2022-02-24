@@ -1,0 +1,78 @@
+body {
+    color: #3a4045;
+}
+
+.main-content {
+    padding: 0 500px;
+}
+
+section {
+    padding: 10px;
+}
+
+header {
+    background-color: #f2e9e4;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    overflow: auto;
+}
+
+header img {
+    width: 200px;
+    border-radius: 50%;
+    padding: 15px;
+}
+
+.menu {
+    list-style-type: none;
+    color: #f2e9e4;
+    background-color: #9a8c98;
+    box-shadow: 2px 2px 7px #3a4045;
+    border-radius: 10px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 20px
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #3a4045;
+}
+
+.kontakt ul{
+   list-style-type: none; 
+   text-align: center;
+}
+
+.kontakt ul li a {
+    color: #3a4045;
+}
+
+.o-mne, .vzdelani, .zkusenosti {
+    border-bottom: 3px solid #9a8c98;
+   
+}
+
+table, tr, td, th {
+    border: 1px solid #3a4045;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #9a8c98;
+    border-top: 5px solid #3a4045;
+}
+
+
+
+
