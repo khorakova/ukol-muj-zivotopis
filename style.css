@@ -50,17 +50,26 @@ header img {
     color: #3a4045;
 }
 
-.menu li a:hover {
+.menu li:hover {
     background-color: #3a4045;
-    color: white;
-    padding: 20px;
     border-radius: 10px;
+}
+
+.menu li:hover a {
+    color: white;
 }
 
 /* hlavni sekce */
 .kontakt ul{
    list-style-type: none; 
-   text-align: center;
+}
+
+i {
+    min-width: 25px;
+}
+
+.kontakt ul li {
+    padding: 5px 0px;
 }
 
 .kontakt ul li a {
